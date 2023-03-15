@@ -1,0 +1,8 @@
+.ca{
+    background-color: rgb(224, 166, 166) !important;
+    cursor: pointer;
+}
+
+.ca:hover{
+    opacity: 0.7;
+}
